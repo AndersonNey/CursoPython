@@ -1,0 +1,1 @@
+#uma classe vai ser dona da outra , quando um objeto da classe 'dona' for apagado seus objetos serao apagados tambem

@@ -1,0 +1,10 @@
+relwidth e relheight   tamanho relativo
+bd    borda
+bg  background
+fg   cor da fonte
+font   tipo e tamanho       font = (nome da fonte , tamanho, estilo se é negrito ou nao)
+
+
+
+
+é necessario especificar o cabeçalho de cada coluna que foi criada

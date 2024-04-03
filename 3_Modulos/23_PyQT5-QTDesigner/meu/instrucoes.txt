@@ -1,0 +1,3 @@
+Precisa abrir o terminal na pasta onde o arquivo esta
+
+pyuic5 design.ui -o design.py

@@ -1,0 +1,23 @@
+A diferença entre um diretório comum para um pacote Python é justamente a presença do aquivo __init__.py . Sem ele,
+ o diretório não será considerado um pacote e os módulos ficarão inacessíveis. No glossário há: Um módulo Python que pode 
+ conter submódulos ou, recursivamente, subpacotes.
+
+
+ tive problemas ao criar __init__.py no vs code , precisei usar o pycharm para criar o subpacote e depois voltei para o vs code
+
+
+
+ e ter cuidado para nao sobresrever uma funçao desse jeito
+
+ def carro():
+    pass
+
+
+carro = verde
+
+
+carro()
+
+
+
+vai deixar o python doido

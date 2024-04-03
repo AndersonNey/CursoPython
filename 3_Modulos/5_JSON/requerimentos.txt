@@ -1,0 +1,24 @@
+DUMPS / DUMP
+###############
+Python        Json
+dict          object
+list,tuple    array
+str           string
+int,float     number
+True          True
+FALSE         FALSE
+None          null
+
+
+LOADS /LOAD
+###############
+JSON         Python
+object       dict
+array        list
+string       str
+number(int)  int
+number(real) float
+true         True
+false        false
+null         none
+

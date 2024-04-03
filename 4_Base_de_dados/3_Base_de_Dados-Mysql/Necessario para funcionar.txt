@@ -1,0 +1,5 @@
+É necessario instalar o pymysql
+
+pip install pymysql
+
+É necessario ter um servidor Mysql usei o XAMPP e instalar o workbench

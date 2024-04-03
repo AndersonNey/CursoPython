@@ -1,0 +1,25 @@
+https://docs.python.org/3/library/functions.html#open
+
+open( file , mode = 'r' , buffering = - 1 , encoding = None , errors = None , newline = None , closefd = True , opener = None )
+
+
+'r'
+aberto para leitura (padrão)
+
+'w'
+aberto para escrita, truncando o arquivo primeiro
+
+'x'
+aberto para criação exclusiva, falhando se o arquivo já existir
+
+'a'
+aberto para escrita, anexando ao final do arquivo se existir
+
+'b'
+modo binário
+
+'t'
+modo de texto (padrão)
+
+'+'
+aberto para atualização (leitura e escrita)
